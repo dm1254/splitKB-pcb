@@ -8,4 +8,4 @@
 - [x] ~~power decoupling capcaitors~~
 - [x] ~~usb port~~
 - [x] ~~swd header~~
-- [ ] key matrix
+- [x] ~~key matrix~~
