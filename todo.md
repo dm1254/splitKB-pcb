@@ -9,3 +9,5 @@
 - [x] ~~usb port~~
 - [x] ~~swd header~~
 - [x] ~~key matrix~~
+- [ ] Prepare mcu and assign rows and cols to mcu pins
+- [ ] Apply footprints to components 
